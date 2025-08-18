@@ -1,0 +1,8 @@
+pytest
+allure-pytest
+selene==2.0.0rc9
+Appium-Python-Client
+selenium==4.33.0
+allure-python-commons
+requests==2.32.4
+python-dotenv
